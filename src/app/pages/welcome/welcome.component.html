@@ -1,0 +1,49 @@
+<div class="min-h-screen bg-gradient-to-br from-rose-600 via-pink-600 to-rose-700 flex flex-col items-center justify-center text-white px-6">
+  
+  <div class="text-center">
+    <!-- Logo / Icône -->
+    <div class="hero-logo">
+
+  <div class="hero-logo">
+
+  <div class="logo-slider">
+
+    <img
+      src="assets/icons/restaurant-plate-svgrepo-com.svg"
+      alt="Restaurant"
+      class="hero-icon icon-1"
+    >
+
+    <img
+      src="assets/icons/room-service-hotel-svgrepo-com.svg"
+      alt="Restaurant"
+      class="hero-icon icon-2"
+    >
+
+  </div>
+
+  <h1>Restaurant</h1>
+
+</div>
+    
+    <h1 class="text-5xl font-bold mb-2 tracking-tight">{{ restaurantName }}</h1>
+    <p class="text-xl opacity-90 mb-12">Ouagadougou, Burkina Faso</p>
+
+    <div class="max-w-xs mx-auto space-y-4">
+      <button 
+        (click)="goToMenu()"
+        class="w-full bg-white text-rose-600 font-semibold text-lg py-6 rounded-3xl shadow-xl hover:shadow-2xl active:scale-[0.97] transition-all">
+        Voir le Menu
+      </button>
+
+      <button 
+        (click)="goToAbout()"
+        class="w-full border border-white/60 font-medium text-lg py-6 rounded-3xl hover:bg-white/10 transition-all">
+        À propos du restaurant
+      </button>
+    </div>
+  </div>
+
+  <div class="absolute bottom-8 text-white/60 text-sm flex items-center gap-2">
+  </div>
+</div>

@@ -1,0 +1,19 @@
+.plat-card{
+  width: 100%;
+  max-width: 320px;   /* 👈 réduit la largeur */
+  margin: auto;
+
+  border-radius: 18px;
+
+  background: white;
+
+  box-shadow: 0 8px 25px rgba(0,0,0,0.08);
+
+  overflow: hidden;
+
+  transition: 0.3s ease;
+}
+
+.plat-card:hover{
+  transform: translateY(-5px);
+}

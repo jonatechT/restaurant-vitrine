@@ -1,0 +1,28 @@
+.back-btn{
+  position: fixed;
+  top: 20px;
+  left: 20px;
+
+  background: #fe0055;
+  color: white;
+
+  border: none;
+  padding: 10px 14px;
+
+  border-radius: 12px;
+
+  font-size: 1rem;
+
+  cursor: pointer;
+
+  box-shadow: 0 8px 20px rgba(0,0,0,0.2);
+
+  z-index: 1000;
+
+  transition: 0.2s ease;
+}
+
+.back-btn:hover{
+  transform: scale(1.05);
+  background: #3b1e37;
+}

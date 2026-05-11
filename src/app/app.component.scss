@@ -1,0 +1,16 @@
+.restaurant-app {
+    max-width: 320px; 
+  margin: 0 auto;
+  min-height: 100vh;
+  background: #f8f9fa;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+  overflow-x: hidden;
+}
+
+/* Pour que ça reste beau sur grand écran */
+@media (min-width: 481px) {
+  .restaurant-app {
+    border-left: 1px solid #e5e7eb;
+    border-right: 1px solid #e5e7eb;
+  }
+}
