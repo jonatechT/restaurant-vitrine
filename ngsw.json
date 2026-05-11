@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1778454929928,
+  "timestamp": 1778502874367,
   "index": "/restaurant-vitrine/index.html",
   "assetGroups": [
     {
@@ -13,11 +13,11 @@
       "urls": [
         "/restaurant-vitrine/favicon.ico",
         "/restaurant-vitrine/index.html",
-        "/restaurant-vitrine/main.97b365c5b811c40a.js",
+        "/restaurant-vitrine/main.7abe548cbebde967.js",
         "/restaurant-vitrine/manifest.webmanifest",
         "/restaurant-vitrine/polyfills.cbca5d95077857f8.js",
         "/restaurant-vitrine/runtime.6b106702370d3180.js",
-        "/restaurant-vitrine/styles.2a91ab77740f7b54.css"
+        "/restaurant-vitrine/styles.6b44d9b6decf059f.css"
       ],
       "patterns": []
     },
@@ -37,6 +37,8 @@
         "/restaurant-vitrine/assets/icons/icon-512x512.png",
         "/restaurant-vitrine/assets/icons/icon-72x72.png",
         "/restaurant-vitrine/assets/icons/icon-96x96.png",
+        "/restaurant-vitrine/assets/icons/restaurant-plate-svgrepo-com.svg",
+        "/restaurant-vitrine/assets/icons/room-service-hotel-svgrepo-com.svg",
         "/restaurant-vitrine/assets/images/plats/Chawarma.jfif",
         "/restaurant-vitrine/assets/images/plats/Riz-au-poulet.jfif",
         "/restaurant-vitrine/assets/images/plats/Schweppes.jfif",
@@ -74,6 +76,8 @@
     "/restaurant-vitrine/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
     "/restaurant-vitrine/assets/icons/icon-72x72.png": "279825a1ac4377032ae996a1832c641e33ccf1b6",
     "/restaurant-vitrine/assets/icons/icon-96x96.png": "592885efcbfee27e5e20be4fa3043589390d2740",
+    "/restaurant-vitrine/assets/icons/restaurant-plate-svgrepo-com.svg": "924d0973b895e3b4a62ba022f4b15e105bf19a31",
+    "/restaurant-vitrine/assets/icons/room-service-hotel-svgrepo-com.svg": "8c08e73bca7a645e43116e7cb7739c05a99eba19",
     "/restaurant-vitrine/assets/images/plats/Chawarma.jfif": "2ca4ce37382e4ba5960fc40dfb4d3f51486e75a9",
     "/restaurant-vitrine/assets/images/plats/Riz-au-poulet.jfif": "9bd2ad21c6c3b9a190fd545a6e2b4d12635917c7",
     "/restaurant-vitrine/assets/images/plats/Schweppes.jfif": "38d2f434f52713adcc5da845d24470284a929870",
@@ -98,12 +102,12 @@
     "/restaurant-vitrine/assets/images/plats/saussice.jfif": "f12d67be331ad2f50101e9c57aabcac52d020f90",
     "/restaurant-vitrine/assets/images/plats/teedo.jfif": "ed82541946155a4d9f0d19a67009003cf9cb1e60",
     "/restaurant-vitrine/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/restaurant-vitrine/index.html": "acefb4b9daa0397cb07f5574803ad46116c95482",
-    "/restaurant-vitrine/main.97b365c5b811c40a.js": "71d24b971969211d46290aac048587dd4bb5fdc1",
+    "/restaurant-vitrine/index.html": "22cddbe720e7e9432a6363cea5f1a9ce02055a23",
+    "/restaurant-vitrine/main.7abe548cbebde967.js": "2b8456cb4aca990d6fb4bf24d0dc47bfdf43c458",
     "/restaurant-vitrine/manifest.webmanifest": "fcf467c1e493eeaf40270f37fa00d3a271ba5b43",
     "/restaurant-vitrine/polyfills.cbca5d95077857f8.js": "c82cd7e77785890eae21ec9ec1a0da8699b5937d",
     "/restaurant-vitrine/runtime.6b106702370d3180.js": "515b01fb2c1daedce94a8147ef839372fbaa71bd",
-    "/restaurant-vitrine/styles.2a91ab77740f7b54.css": "ba93533bcb0f6c2301910e6c492d96783c0be8ee"
+    "/restaurant-vitrine/styles.6b44d9b6decf059f.css": "de463a53e08a4a41d7e5d427f5d468779f350185"
   },
   "navigationUrls": [
     {
