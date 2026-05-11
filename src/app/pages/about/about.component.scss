@@ -1,0 +1,122 @@
+.about-container{
+  padding: 20px;
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+/* HERO */
+.about-hero{
+  background: linear-gradient(135deg, #0f172a, #1e293b);
+  color: white;
+  padding: 40px 20px;
+  border-radius: 20px;
+  margin-bottom: 20px;
+  animation: fadeIn 0.5s ease;
+}
+
+.about-hero h1{
+  font-size: 2rem;
+}
+
+.about-hero p{
+  opacity: 0.8;
+}
+
+/* CARDS */
+.fun-cards{
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 15px;
+  margin-top: 20px;
+}
+
+.fun-card{
+  background: white;
+  padding: 20px;
+  border-radius: 16px;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.1);
+  transition: 0.3s ease;
+  cursor: pointer;
+}
+
+.fun-card:hover{
+  transform: translateY(-8px) scale(1.03);
+}
+
+.icon{
+  font-size: 2rem;
+  margin-bottom: 10px;
+}
+
+/* TEXT SECTION */
+.about-text{
+  margin-top: 30px;
+  background: #f8fafc;
+  padding: 20px;
+  border-radius: 16px;
+}
+
+/* CONTACT */
+.contact-box{
+  margin-top: 30px;
+  background: #0f172a;
+  color: white;
+  padding: 20px;
+  border-radius: 16px;
+}
+
+/* ANIMATION */
+@keyframes fadeIn{
+  from{
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to{
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+.modern-icon{
+
+  width: 42px;
+  height: 42px;
+
+  stroke-width: 1.8;
+
+  color: #ff7a00;
+
+  margin-bottom: 15px;
+
+  transition: 0.3s ease;
+}
+
+.fun-card:hover .modern-icon{
+
+  transform: scale(1.15) rotate(5deg);
+
+  color: #0f172a;
+}
+.about-title{
+
+  display: flex;
+
+  align-items: center;
+
+  justify-content: center;
+
+  gap: 12px;
+
+  font-size: 2.3rem;
+
+  font-weight: bold;
+}
+
+.title-icon{
+
+  width: 40px;
+  height: 40px;
+
+  color: #ff7a00;
+
+  stroke-width: 2;
+}
