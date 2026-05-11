@@ -1,12 +1,11 @@
 import { Component, OnInit } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { Plat, Categorie } from '../../models/plat.model';
-import { BackButtonComponent } from '../../shared/back-button/back-button.component';
 
 @Component({
   selector: 'app-menu',
   standalone: true,
-  imports: [CommonModule, BackButtonComponent],
+  imports: [CommonModule],
   templateUrl: './menu.component.html',
   styleUrls: ['./menu.component.scss']
 })
