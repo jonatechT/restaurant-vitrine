@@ -2,14 +2,12 @@
   "name": "restaurant-vitrine",
   "version": "0.0.0",
   "scripts": {
-    "ng": "ng",
-    "start": "ng serve",
-    "build": "ng build",
-    "watch": "ng build --watch --configuration development",
-    "test": "ng test",
-    "build:prod": "ng build --configuration production --base-href /restaurant-vitrine/",
-  "deploy": "ng build --configuration production --base-href /restaurant-vitrine/ && angular-cli-ghpages --dir=dist/restaurant-vitrine"
-  },
+  "ng": "ng",
+  "start": "ng serve",
+  "build": "ng build",
+  "build:prod": "ng build --configuration production --base-href /restaurant-vitrine/",
+  "deploy": "npm run build:prod"
+},
   "private": true,
   "dependencies": {
     "@angular/animations": "^16.2.0",
