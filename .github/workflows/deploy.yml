@@ -16,15 +16,18 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 20
+          cache: 'npm'
 
       - name: Install dependencies
         run: npm ci
 
       - name: Build Angular
-        run: npm run build --configuration production --base-href /restaurant-vitrine/
+        run: |
+          npm run build --configuration production --base-href /restaurant-vitrine/
 
       - name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           branch: gh-pages
           folder: dist/restaurant-vitrine
+          clean: true
