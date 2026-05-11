@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1778504238419,
+  "timestamp": 1778510352985,
   "index": "/restaurant-vitrine/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/restaurant-vitrine/favicon.ico",
         "/restaurant-vitrine/index.html",
-        "/restaurant-vitrine/main.498f72a7ec658beb.js",
+        "/restaurant-vitrine/main.c95e17e4db54f18e.js",
         "/restaurant-vitrine/manifest.webmanifest",
         "/restaurant-vitrine/polyfills.cbca5d95077857f8.js",
         "/restaurant-vitrine/runtime.6b106702370d3180.js",
@@ -102,8 +102,8 @@
     "/restaurant-vitrine/assets/images/plats/saussice.jfif": "f12d67be331ad2f50101e9c57aabcac52d020f90",
     "/restaurant-vitrine/assets/images/plats/teedo.jfif": "ed82541946155a4d9f0d19a67009003cf9cb1e60",
     "/restaurant-vitrine/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/restaurant-vitrine/index.html": "28afa39abe60e7b31bddd9145750da8f254137ed",
-    "/restaurant-vitrine/main.498f72a7ec658beb.js": "ccf8f4ab8ac6f20ff061ffa98dad5bf793609ceb",
+    "/restaurant-vitrine/index.html": "481ac019b29e33cbf3763b061a3a053305d6f5cc",
+    "/restaurant-vitrine/main.c95e17e4db54f18e.js": "ca982bbd7ef7764df915b2aaf98482119a890928",
     "/restaurant-vitrine/manifest.webmanifest": "fcf467c1e493eeaf40270f37fa00d3a271ba5b43",
     "/restaurant-vitrine/polyfills.cbca5d95077857f8.js": "c82cd7e77785890eae21ec9ec1a0da8699b5937d",
     "/restaurant-vitrine/runtime.6b106702370d3180.js": "515b01fb2c1daedce94a8147ef839372fbaa71bd",
