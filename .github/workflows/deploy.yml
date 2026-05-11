@@ -22,8 +22,7 @@ jobs:
         run: npm ci
 
       - name: Build Angular
-        run: |
-          npm run build --configuration production --base-href /restaurant-vitrine/
+        run: npm run build:prod
 
       - name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4
